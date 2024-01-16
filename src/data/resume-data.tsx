@@ -100,7 +100,7 @@ export const RESUME_DATA = {
         "WebRTC",
       ],
       description: "A platform to build and grow your online business",
-      logo: ConsultlyLogo,
+      // logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
         href: "https://consultly.com/",
