@@ -37,14 +37,14 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Federal University Of Agriculture, Abeokuta",
-      degree: "Bachelor's degree, Mechatronic engineering",
+      degree: "Bachelor's degree, Mechatronics engineering",
       start: "2020",
       end: "2025",
     },
   ],
   work: [
     {
-      company: "ThynkCity ",
+      company: "ThynkCity",
       link: "https://thynkcity.com",
       badges: ["Remote"],
       title: "Software Engineer",
